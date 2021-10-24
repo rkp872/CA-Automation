@@ -1,0 +1,286 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "name" : "timeline",
+  "children" : [ {
+    "name" : "0-0",
+    "children" : [ {
+      "name" : "Verify that the app adjust when orientation is switched",
+      "uid" : "af20de9f7e514e7c",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1635039344616,
+        "stop" : 1635039347958,
+        "duration" : 3342
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "emulator - 5554 9.0-9" ]
+    }, {
+      "name" : "Verify that the text entry dialog username & password fields are editable",
+      "uid" : "acd897b190ce3b06",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1635039337595,
+        "stop" : 1635039344615,
+        "duration" : 7020
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "emulator - 5554 9.0-9" ]
+    }, {
+      "name" : "Verify that the text entry dialog username & password fields are editable",
+      "uid" : "8c02128148cdaaf3",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1635040950374,
+        "stop" : 1635040959115,
+        "duration" : 8741
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "emulator - 5554 9.0-9" ]
+    }, {
+      "name" : "Verify that the app adjust when orientation is switched",
+      "uid" : "fea525eb5024f056",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1635041377515,
+        "stop" : 1635041380909,
+        "duration" : 3394
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "emulator - 5554 9.0-9" ]
+    }, {
+      "name" : "Verify that the text entry dialog username & password fields are editable",
+      "uid" : "7239155847799199",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1635040248984,
+        "stop" : 1635040256494,
+        "duration" : 7510
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "emulator - 5554 9.0-9" ]
+    }, {
+      "name" : "Verify that the text entry dialog username & password fields are editable",
+      "uid" : "2a9f8a7de87b06cd",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1635041211609,
+        "stop" : 1635041218541,
+        "duration" : 6932
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "emulator - 5554 9.0-9" ]
+    }, {
+      "name" : "Verify that the app adjust when orientation is switched",
+      "uid" : "5e4b083cbee1e8b8",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1635040959115,
+        "stop" : 1635040963623,
+        "duration" : 4508
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "emulator - 5554 9.0-9" ]
+    }, {
+      "name" : "Verify that the app adjust when orientation is switched",
+      "uid" : "da26593331089233",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1634981385882,
+        "stop" : 1634981390144,
+        "duration" : 4262
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "emulator - 5554 9.0-9" ]
+    }, {
+      "name" : "Verify that the app adjust when orientation is switched",
+      "uid" : "840f7435ec7fe992",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1635041218542,
+        "stop" : 1635041222920,
+        "duration" : 4378
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "emulator - 5554 9.0-9" ]
+    }, {
+      "name" : "Verify that the text entry dialog username & password fields are editable",
+      "uid" : "b1282521f9e37b91",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1634981378789,
+        "stop" : 1634981385881,
+        "duration" : 7092
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "emulator - 5554 9.0-9" ]
+    }, {
+      "name" : "Verify that the text entry dialog username & password fields are editable",
+      "uid" : "6438a59beff1c241",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1635040613258,
+        "stop" : 1635040620277,
+        "duration" : 7019
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "emulator - 5554 9.0-9" ]
+    }, {
+      "name" : "Verify that the text entry dialog username & password fields are editable",
+      "uid" : "a3837ee1903a6345",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1635041370766,
+        "stop" : 1635041377514,
+        "duration" : 6748
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "emulator - 5554 9.0-9" ]
+    }, {
+      "name" : "Verify that the app adjust when orientation is switched",
+      "uid" : "5088eb7e432322a5",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1635040256494,
+        "stop" : 1635040260380,
+        "duration" : 3886
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "emulator - 5554 9.0-9" ]
+    }, {
+      "name" : "Verify that the app adjust when orientation is switched",
+      "uid" : "24308ccc3bdd77dd",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1635040620277,
+        "stop" : 1635040624299,
+        "duration" : 4022
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "emulator - 5554 9.0-9" ]
+    } ],
+    "uid" : "516fe00eea05ad99e936fa729b55eff4"
+  }, {
+    "name" : "0-1",
+    "children" : [ {
+      "name" : "Read data of text label",
+      "uid" : "90710c113a759ef0",
+      "parentUid" : "27fa874cadc1574e37a07abb440963bd",
+      "status" : "passed",
+      "time" : {
+        "start" : 1635041395388,
+        "stop" : 1635041398718,
+        "duration" : 3330
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "emulator - 5554 9.0-9" ]
+    }, {
+      "name" : "Read data of text label",
+      "uid" : "d1794863fefb06d6",
+      "parentUid" : "27fa874cadc1574e37a07abb440963bd",
+      "status" : "passed",
+      "time" : {
+        "start" : 1635039372806,
+        "stop" : 1635039376333,
+        "duration" : 3527
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "emulator - 5554 9.0-9" ]
+    }, {
+      "name" : "Read data of text label",
+      "uid" : "1013de1cd7feca68",
+      "parentUid" : "27fa874cadc1574e37a07abb440963bd",
+      "status" : "passed",
+      "time" : {
+        "start" : 1635040276042,
+        "stop" : 1635040279398,
+        "duration" : 3356
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "emulator - 5554 9.0-9" ]
+    }, {
+      "name" : "Read data of text label",
+      "uid" : "f0f5b226135e18c0",
+      "parentUid" : "27fa874cadc1574e37a07abb440963bd",
+      "status" : "passed",
+      "time" : {
+        "start" : 1635041237268,
+        "stop" : 1635041240806,
+        "duration" : 3538
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "emulator - 5554 9.0-9" ]
+    }, {
+      "name" : "Read data of text label",
+      "uid" : "74cf3cb671497faf",
+      "parentUid" : "27fa874cadc1574e37a07abb440963bd",
+      "status" : "passed",
+      "time" : {
+        "start" : 1635040979879,
+        "stop" : 1635040983518,
+        "duration" : 3639
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "emulator - 5554 9.0-9" ]
+    }, {
+      "name" : "Read data of text label",
+      "uid" : "5ee142b27ad7c33e",
+      "parentUid" : "27fa874cadc1574e37a07abb440963bd",
+      "status" : "passed",
+      "time" : {
+        "start" : 1634981411974,
+        "stop" : 1634981415972,
+        "duration" : 3998
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "emulator - 5554 9.0-9" ]
+    }, {
+      "name" : "Read data of text label",
+      "uid" : "1826e3822b982ddf",
+      "parentUid" : "27fa874cadc1574e37a07abb440963bd",
+      "status" : "passed",
+      "time" : {
+        "start" : 1635040639077,
+        "stop" : 1635040642605,
+        "duration" : 3528
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "emulator - 5554 9.0-9" ]
+    } ],
+    "uid" : "27fa874cadc1574e37a07abb440963bd"
+  } ]
+}

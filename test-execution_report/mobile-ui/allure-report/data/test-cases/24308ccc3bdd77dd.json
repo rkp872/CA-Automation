@@ -1,0 +1,78 @@
+{
+  "uid" : "24308ccc3bdd77dd",
+  "name" : "Verify that the app adjust when orientation is switched",
+  "fullName" : "Dialog.Verify that the app adjust when orientation is switched",
+  "historyId" : "e64d6fd310daad6bbe65d9df3b90d4ec",
+  "time" : {
+    "start" : 1635040620277,
+    "stop" : 1635040624299,
+    "duration" : 4022
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "f2e915fe965a18e4",
+      "name" : "Screenshot",
+      "source" : "f2e915fe965a18e4.png",
+      "type" : "image/png",
+      "size" : 131121
+    }, {
+      "uid" : "1808916c453508ae",
+      "name" : "Screenshot",
+      "source" : "1808916c453508ae.png",
+      "type" : "image/png",
+      "size" : 124087
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : true,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 2
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Dialog"
+  }, {
+    "name" : "testClass",
+    "value" : "Dialog"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify that the app adjust when orientation is switched"
+  }, {
+    "name" : "package",
+    "value" : "Dialog"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "device",
+    "value" : "emulator - 5554 9.0-9"
+  } ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "24308ccc3bdd77dd.json",
+  "parameterValues" : [ "emulator - 5554 9.0-9" ]
+}

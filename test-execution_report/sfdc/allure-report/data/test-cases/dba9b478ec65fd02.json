@@ -1,0 +1,66 @@
+{
+  "uid" : "dba9b478ec65fd02",
+  "name" : "Sample Test Case",
+  "fullName" : "Sample Test Suite.Sample Test Case",
+  "historyId" : "1d1f358bcd9fa587c5b06dd1420e002d",
+  "time" : {
+    "start" : 1635039563721,
+    "stop" : 1635039577068,
+    "duration" : 13347
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Sample Test Suite"
+  }, {
+    "name" : "testClass",
+    "value" : "Sample Test Suite"
+  }, {
+    "name" : "testMethod",
+    "value" : "Sample Test Case"
+  }, {
+    "name" : "package",
+    "value" : "Sample Test Suite"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-94.0.4606.81"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "2087f063098d8b13",
+      "status" : "passed",
+      "time" : {
+        "start" : 1634980741996,
+        "stop" : 1634980756882,
+        "duration" : 14886
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "dba9b478ec65fd02.json",
+  "parameterValues" : [ "chrome-94.0.4606.81" ]
+}

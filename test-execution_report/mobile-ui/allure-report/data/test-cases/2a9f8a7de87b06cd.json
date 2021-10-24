@@ -1,0 +1,56 @@
+{
+  "uid" : "2a9f8a7de87b06cd",
+  "name" : "Verify that the text entry dialog username & password fields are editable",
+  "fullName" : "Dialog.Verify that the text entry dialog username & password fields are editable",
+  "historyId" : "53585b39f3063ab83deaa17c4e0e9db8",
+  "time" : {
+    "start" : 1635041211609,
+    "stop" : 1635041218541,
+    "duration" : 6932
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Dialog"
+  }, {
+    "name" : "testClass",
+    "value" : "Dialog"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify that the text entry dialog username & password fields are editable"
+  }, {
+    "name" : "package",
+    "value" : "Dialog"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "device",
+    "value" : "emulator - 5554 9.0-9"
+  } ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "2a9f8a7de87b06cd.json",
+  "parameterValues" : [ "emulator - 5554 9.0-9" ]
+}

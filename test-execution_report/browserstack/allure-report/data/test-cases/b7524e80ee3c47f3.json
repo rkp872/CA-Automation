@@ -1,0 +1,66 @@
+{
+  "uid" : "b7524e80ee3c47f3",
+  "name" : "Verify that the text entry dialog username & password fields are editable",
+  "fullName" : "Dialog.Verify that the text entry dialog username & password fields are editable",
+  "historyId" : "7b702378e24d1ec51e22ef114551d94d",
+  "time" : {
+    "start" : 1635039647629,
+    "stop" : 1635039659770,
+    "duration" : 12141
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Dialog"
+  }, {
+    "name" : "testClass",
+    "value" : "Dialog"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify that the text entry dialog username & password fields are editable"
+  }, {
+    "name" : "package",
+    "value" : "Dialog"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "device",
+    "value" : "google pixel 3-9.0"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "79909ac06acf985e",
+      "status" : "passed",
+      "time" : {
+        "start" : 1634982297350,
+        "stop" : 1634982308156,
+        "duration" : 10806
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "b7524e80ee3c47f3.json",
+  "parameterValues" : [ "google pixel 3-9.0" ]
+}

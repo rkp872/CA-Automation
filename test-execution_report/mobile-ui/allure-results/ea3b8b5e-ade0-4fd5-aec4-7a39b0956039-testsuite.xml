@@ -1,0 +1,38 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1635040613258' stop='1635040624300'>
+    <name>Dialog</name>
+    <title>Dialog</title>
+    <test-cases>
+        <test-case start='1635040613258' status='passed' stop='1635040620277'>
+            <name>Verify that the text entry dialog username &amp; password fields are editable</name>
+            <title>Verify that the text entry dialog username &amp; password fields are editable</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-0'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='device' value='emulator - 5554 9.0-9'/>
+            </parameters>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1635040620277' status='passed' stop='1635040624299'>
+            <name>Verify that the app adjust when orientation is switched</name>
+            <title>Verify that the app adjust when orientation is switched</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-0'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='device' value='emulator - 5554 9.0-9'/>
+            </parameters>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='f7679d32-39bb-4113-8074-9a68e66da813-attachment.png' type='image/png' size='131121'/>
+                <attachment title='Screenshot' source='9cca987f-c9d5-4bc9-a8a5-67f6be3f61ad-attachment.png' type='image/png' size='124087'/>
+            </attachments>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

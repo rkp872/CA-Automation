@@ -1,0 +1,52 @@
+{
+  "uid" : "83edc06c07f9ae9e47eb6dd1b683e4e2",
+  "name" : "packages",
+  "children" : [ {
+    "name" : "Read data ",
+    "children" : [ {
+      "name" : "Read data of text label",
+      "uid" : "6067ae5754741507",
+      "parentUid" : "0d62e6bfa6d402ec302de1188bf345b6",
+      "status" : "passed",
+      "time" : {
+        "start" : 1635039647295,
+        "stop" : 1635039652710,
+        "duration" : 5415
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "google pixel 3-9.0" ]
+    } ],
+    "uid" : "0d62e6bfa6d402ec302de1188bf345b6"
+  }, {
+    "name" : "Dialog",
+    "children" : [ {
+      "name" : "Verify that the text entry dialog username & password fields are editable",
+      "uid" : "b7524e80ee3c47f3",
+      "parentUid" : "3236a174765f78d7fb8a540b85707e7d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1635039647629,
+        "stop" : 1635039659770,
+        "duration" : 12141
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "google pixel 3-9.0" ]
+    }, {
+      "name" : "Verify that the app adjust when orientation is switched",
+      "uid" : "d330554b23db3fde",
+      "parentUid" : "3236a174765f78d7fb8a540b85707e7d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1635039659770,
+        "stop" : 1635039670984,
+        "duration" : 11214
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "google pixel 3-9.0" ]
+    } ],
+    "uid" : "3236a174765f78d7fb8a540b85707e7d"
+  } ]
+}

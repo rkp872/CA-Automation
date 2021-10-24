@@ -1,0 +1,38 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1635039647629' stop='1635039670985'>
+    <name>Dialog</name>
+    <title>Dialog</title>
+    <test-cases>
+        <test-case start='1635039647629' status='passed' stop='1635039659770'>
+            <name>Verify that the text entry dialog username &amp; password fields are editable</name>
+            <title>Verify that the text entry dialog username &amp; password fields are editable</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-0'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='device' value='google pixel 3-9.0'/>
+            </parameters>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1635039659770' status='passed' stop='1635039670984'>
+            <name>Verify that the app adjust when orientation is switched</name>
+            <title>Verify that the app adjust when orientation is switched</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-0'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='device' value='google pixel 3-9.0'/>
+            </parameters>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='ca1eef4a-1060-422e-b7bf-12b527f7dfe9-attachment.png' type='image/png' size='100868'/>
+                <attachment title='Screenshot' source='96d8c64a-7de3-4b4d-886b-014b469afbc3-attachment.png' type='image/png' size='139028'/>
+            </attachments>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

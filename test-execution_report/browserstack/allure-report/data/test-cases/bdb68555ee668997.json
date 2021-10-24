@@ -1,0 +1,78 @@
+{
+  "uid" : "bdb68555ee668997",
+  "name" : "Verify that the app adjust when orientation is switched",
+  "fullName" : "Dialog.Verify that the app adjust when orientation is switched",
+  "historyId" : "8473051a9135244878d3910a076c6c52",
+  "time" : {
+    "start" : 1634982308157,
+    "stop" : 1634982315949,
+    "duration" : 7792
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "116c7d36eb4b5e06",
+      "name" : "Screenshot",
+      "source" : "116c7d36eb4b5e06.png",
+      "type" : "image/png",
+      "size" : 101315
+    }, {
+      "uid" : "f02e8476681055be",
+      "name" : "Screenshot",
+      "source" : "f02e8476681055be.png",
+      "type" : "image/png",
+      "size" : 139548
+    } ],
+    "parameters" : [ ],
+    "attachmentsCount" : 2,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 0,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Dialog"
+  }, {
+    "name" : "testClass",
+    "value" : "Dialog"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify that the app adjust when orientation is switched"
+  }, {
+    "name" : "package",
+    "value" : "Dialog"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "device",
+    "value" : "google pixel 3-9.0"
+  } ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "bdb68555ee668997.json",
+  "parameterValues" : [ "google pixel 3-9.0" ]
+}

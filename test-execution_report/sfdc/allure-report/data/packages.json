@@ -1,0 +1,22 @@
+{
+  "uid" : "83edc06c07f9ae9e47eb6dd1b683e4e2",
+  "name" : "packages",
+  "children" : [ {
+    "name" : "Sample Test Suite",
+    "children" : [ {
+      "name" : "Sample Test Case",
+      "uid" : "dba9b478ec65fd02",
+      "parentUid" : "7697bbb2192a24853a55a1caf37c9136",
+      "status" : "passed",
+      "time" : {
+        "start" : 1635039563721,
+        "stop" : 1635039577068,
+        "duration" : 13347
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-94.0.4606.81" ]
+    } ],
+    "uid" : "7697bbb2192a24853a55a1caf37c9136"
+  } ]
+}

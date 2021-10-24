@@ -1,0 +1,52 @@
+{
+  "uid" : "98d3104e051c652961429bf95fa0b5d6",
+  "name" : "suites",
+  "children" : [ {
+    "name" : "Dialog",
+    "children" : [ {
+      "name" : "Verify that the text entry dialog username & password fields are editable",
+      "uid" : "a3837ee1903a6345",
+      "parentUid" : "bbbdfbe3da4b96bfb623e05ed02b8c50",
+      "status" : "passed",
+      "time" : {
+        "start" : 1635041370766,
+        "stop" : 1635041377514,
+        "duration" : 6748
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "emulator - 5554 9.0-9" ]
+    }, {
+      "name" : "Verify that the app adjust when orientation is switched",
+      "uid" : "fea525eb5024f056",
+      "parentUid" : "bbbdfbe3da4b96bfb623e05ed02b8c50",
+      "status" : "passed",
+      "time" : {
+        "start" : 1635041377515,
+        "stop" : 1635041380909,
+        "duration" : 3394
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "emulator - 5554 9.0-9" ]
+    } ],
+    "uid" : "bbbdfbe3da4b96bfb623e05ed02b8c50"
+  }, {
+    "name" : "Read data ",
+    "children" : [ {
+      "name" : "Read data of text label",
+      "uid" : "90710c113a759ef0",
+      "parentUid" : "6856fccdd30c818450e8ec20a6144538",
+      "status" : "passed",
+      "time" : {
+        "start" : 1635041395388,
+        "stop" : 1635041398718,
+        "duration" : 3330
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "emulator - 5554 9.0-9" ]
+    } ],
+    "uid" : "6856fccdd30c818450e8ec20a6144538"
+  } ]
+}

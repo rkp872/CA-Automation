@@ -1,0 +1,31 @@
+[ {
+  "uid" : "b7524e80ee3c47f3",
+  "name" : "Verify that the text entry dialog username & password fields are editable",
+  "time" : {
+    "start" : 1635039647629,
+    "stop" : 1635039659770,
+    "duration" : 12141
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "6067ae5754741507",
+  "name" : "Read data of text label",
+  "time" : {
+    "start" : 1635039647295,
+    "stop" : 1635039652710,
+    "duration" : 5415
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "d330554b23db3fde",
+  "name" : "Verify that the app adjust when orientation is switched",
+  "time" : {
+    "start" : 1635039659770,
+    "stop" : 1635039670984,
+    "duration" : 11214
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]

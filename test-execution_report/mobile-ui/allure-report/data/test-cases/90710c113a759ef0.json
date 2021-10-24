@@ -1,0 +1,106 @@
+{
+  "uid" : "90710c113a759ef0",
+  "name" : "Read data of text label",
+  "fullName" : "Read data .Read data of text label",
+  "historyId" : "47a831701f211029b9a59d6e6fd43f1f",
+  "time" : {
+    "start" : 1635041395388,
+    "stop" : 1635041398718,
+    "duration" : 3330
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-1"
+  }, {
+    "name" : "suite",
+    "value" : "Read data "
+  }, {
+    "name" : "testClass",
+    "value" : "Read data "
+  }, {
+    "name" : "testMethod",
+    "value" : "Read data of text label"
+  }, {
+    "name" : "package",
+    "value" : "Read data "
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "device",
+    "value" : "emulator - 5554 9.0-9"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "f0f5b226135e18c0",
+      "status" : "passed",
+      "time" : {
+        "start" : 1635041237268,
+        "stop" : 1635041240806,
+        "duration" : 3538
+      }
+    }, {
+      "uid" : "74cf3cb671497faf",
+      "status" : "passed",
+      "time" : {
+        "start" : 1635040979879,
+        "stop" : 1635040983518,
+        "duration" : 3639
+      }
+    }, {
+      "uid" : "1826e3822b982ddf",
+      "status" : "passed",
+      "time" : {
+        "start" : 1635040639077,
+        "stop" : 1635040642605,
+        "duration" : 3528
+      }
+    }, {
+      "uid" : "1013de1cd7feca68",
+      "status" : "passed",
+      "time" : {
+        "start" : 1635040276042,
+        "stop" : 1635040279398,
+        "duration" : 3356
+      }
+    }, {
+      "uid" : "d1794863fefb06d6",
+      "status" : "passed",
+      "time" : {
+        "start" : 1635039372806,
+        "stop" : 1635039376333,
+        "duration" : 3527
+      }
+    }, {
+      "uid" : "5ee142b27ad7c33e",
+      "status" : "passed",
+      "time" : {
+        "start" : 1634981411974,
+        "stop" : 1634981415972,
+        "duration" : 3998
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "90710c113a759ef0.json",
+  "parameterValues" : [ "emulator - 5554 9.0-9" ]
+}

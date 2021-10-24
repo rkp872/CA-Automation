@@ -1,0 +1,66 @@
+{
+  "uid" : "6067ae5754741507",
+  "name" : "Read data of text label",
+  "fullName" : "Read data .Read data of text label",
+  "historyId" : "9cb4a0ae25057d0342a4fc67212a28f9",
+  "time" : {
+    "start" : 1635039647295,
+    "stop" : 1635039652710,
+    "duration" : 5415
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-1"
+  }, {
+    "name" : "suite",
+    "value" : "Read data "
+  }, {
+    "name" : "testClass",
+    "value" : "Read data "
+  }, {
+    "name" : "testMethod",
+    "value" : "Read data of text label"
+  }, {
+    "name" : "package",
+    "value" : "Read data "
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "device",
+    "value" : "google pixel 3-9.0"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "aa7c66dcc809207",
+      "status" : "passed",
+      "time" : {
+        "start" : 1634982298870,
+        "stop" : 1634982305590,
+        "duration" : 6720
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "6067ae5754741507.json",
+  "parameterValues" : [ "google pixel 3-9.0" ]
+}
