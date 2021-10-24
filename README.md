@@ -26,7 +26,15 @@ Execute the below command on command promt in the project folder for installing 
 
 `npm install` or `npm i`
 
-## Running Test
+## Getting Started
+
+- Go to `/config/android.emulator.config.js` file and inside **capabilities** block update **deviceName**, **avd**,**platformVersion**
+
+- Go to `/config/android.physical-device.config.js` file and inside **capabilities** block update **deviceName**, **avd**, **platformVersion**
+
+- Go to `.env` file and update **BROWSERSTACK_USERNAME**,**BROWSERSTACK_ACCESS_KE**,**SF_USERNAME**,**SF_PASSWORD**
+
+### Running Test
 
 - Automation of Mobile App UI
   - Using android emulator
