@@ -1,0 +1,16 @@
+{ 
+    "Input_Basic_Details":
+    {
+        "firstName":["abgdjruosfbdajsjhfksfhekfhekghkehksfmsjsdgjads","ald_dgc-sf@dhf#er"],
+        "middleName":["abgdjruosfbdajsjhfksfhekfhekghkehksfmsjsdgjads","ald_dgc-sf@dhf#er"],
+        "lastName":["abgdjruosfbdajsjhfksfhekfhekghkehksfmsjsdgjads","ald_dgc-sf@dhf#er"],
+        "mobileNumber":["98989898","989898989898","0000000000"],
+        "panNumber":["FYAPP1234556","FYAP767","F12346765F"]
+    },
+    "Proprietor_Pan_Address_Details":{
+        "drivingLicenceNumber":[],
+        "dateOfBirth":[],
+        "dateOfExpiry":[],
+        "fileUpload":[]
+    }
+}

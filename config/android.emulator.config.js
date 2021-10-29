@@ -24,22 +24,26 @@ exports.config = {
     // will be called from there.
     //
     specs: [
-        './test/specs/mobile-ui/**/*.js'
+        // './test/specs/mobile-ui/**/*.js'
+        './test/specs/mobile-ui/screen-level-validation/login.spec.js',
+        // './test/specs/mobile-ui/screen-level-validation/dashboard.spec.js',
+        // './test/specs/mobile-ui/screen-level-validation/offers.spec.js',
+        // './test/specs/mobile-ui/screen-level-validation/input_basic_details_screenlevel_validation.js'
     ],
     // Patterns to exclude.
     exclude: [
         // 'path/to/excluded/files'
     ],
 
-    suites: {
-        dialog: [
-            './test/specs/**/sample.test.js'
-        ],
-        label: [
-            './test/specs/**/text.test.js'
-        ]
+    // suites: {
+    //     dialog: [
+    //         './test/specs/**/sample.test.js'
+    //     ],
+    //     label: [
+    //         './test/specs/**/text.test.js'
+    //     ]
 
-    },
+    // },
     //
     // ============
     // Capabilities
@@ -74,9 +78,9 @@ exports.config = {
         deviceName: 'emulator - 5554',
         avd: "Tab",
         platformVersion: '9.0',
-        orientation: "PORTRAIT",
-        app: path.resolve('app/' + "ApiDemos-debug.apk"),
-        appActivity: 'io.appium.android.apis.ApiDemos',
+        // orientation: "PORTRAIT",
+        app: path.resolve('app/' + "CA-BO-App-V1.0.apk"),
+        appActivity: 'com.cajourney.MainActivity',
         //
         acceptInsecureCerts: true
         // If outputDir is provided WebdriverIO can capture driver session logs

@@ -26,10 +26,9 @@
     "test": "test"
   },
   "scripts": {
-    "emulator": "emulator -avd Tab",
     "appium-doctor": "appium-doctor --android",
     "test-microservice": "mocha test --reporter mochawesome  --reporter-options reportDir=test-execution_report/microservice, --require mochawesome/register test/specs/microservices/sample-rest-service.js",
-    "test-ui": "wdio ./config/android.emulator.config.js && allure generate ./test-execution_report/mobile-ui/allure-results --clean -o ./test-execution_report/mobile-ui/allure-report ",
+    "test-ui": "wdio ./config/android.emulator.config.js && adb emu kill && allure generate ./test-execution_report/mobile-ui/allure-results --clean -o ./test-execution_report/mobile-ui/allure-report && allure open ./test-execution_report/mobile-ui/allure-report",
     "test-sfdc": "wdio ./config/salesforce.config.js && allure generate ./test-execution_report/sfdc/allure-results --clean -o ./test-execution_report/sfdc/allure-report && allure open ./test-execution_report/sfdc/allure-report",
     "test-browserstack": "npx wdio ./config/browserstack.config.js && allure generate ./test-execution_report/browserstack/allure-results --clean -o ./test-execution_report/browserstack/allure-report && allure open ./test-execution_report/browserstack/allure-report",
     "test-mobile-app-physical-device": "wdio ./config/android.physical-device.config.js && allure generate ./test-execution_report/physical-device/allure-results --clean -o ./test-execution_report/physical-device/allure-report && allure open ./test-execution_report/physical-device/allure-report"

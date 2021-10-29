@@ -1,4 +1,0 @@
-"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
-"passed","Sun Oct 24 07:39:37 IST 2021","Sun Oct 24 07:39:40 IST 2021","3394","","Dialog","","Dialog","Verify that the app adjust when orientation is switched","Verify that the app adjust when orientation is switched",""
-"passed","Sun Oct 24 07:39:30 IST 2021","Sun Oct 24 07:39:37 IST 2021","6748","","Dialog","","Dialog","Verify that the text entry dialog username & password fields are editable","Verify that the text entry dialog username & password fields are editable",""
-"passed","Sun Oct 24 07:39:55 IST 2021","Sun Oct 24 07:39:58 IST 2021","3330","","Read data ","","Read data ","Read data of text label","Read data of text label",""

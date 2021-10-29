@@ -1,0 +1,17 @@
+{ 
+    "Input_Basic_Details":
+    {
+        "firstNameErrorMessage":"*Please enter valid First Name",
+        "middleNameErrorMessage":"*Please enter valid Middle Name",
+        "lastNameErrorMessage":"*Please enter valid Last Name",
+        "mobileNumberErrorMessage":"*Please enter valid Mobile Number",
+        "panNumberErrorMessage":"*Please enter valid PAN"
+    },
+    "Proprietor_Pan_Address_Details":{
+        "panNumberErrorMessage":"*Please enter valid PAN",
+        "drivingLicenceErrorMessage":"",
+        "dateOfBirthErrorMessage":"",
+        "dateOfExpiryErrorMessage":""
+        
+    }
+}
